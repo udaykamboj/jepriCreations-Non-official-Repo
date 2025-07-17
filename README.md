@@ -4,8 +4,6 @@
 
 ![Preview](https://github.com/user-attachments/assets/3448e138-4236-495e-a6aa-fca5fa42243d)
 
-
-
 > ⚠️ **Unofficial Archive Notice**  
 > This is an **unofficial repository** and **not created by the original author**.  
 > I am **not selling or distributing** this cursor pack.  
@@ -14,8 +12,6 @@
 <br>
 
 # Windows 11 Inspired Material Design Cursors
-
-I decided to create a new version inspired by the recently introduced **Windows 11**.
 
 This cursor pack is more suitable for Windows 11, but it works perfectly on other Windows versions as well.
 
