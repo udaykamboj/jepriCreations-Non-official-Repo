@@ -1,5 +1,7 @@
 # jepriCreations-Non-official-Repo
 
+---
+
 > ⚠️ **Unofficial Archive Notice**  
 > This is an **unofficial repository** and **not created by the original author**.  
 > I am **not selling or distributing** this cursor pack.  
