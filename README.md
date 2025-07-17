@@ -1,17 +1,17 @@
-# jepriCreations-Non-official-Repo
+# jepriCreations Unofficial Archive/Repo
 
 ![Preview](https://github.com/user-attachments/assets/f4adfb7e-eb4c-4f6c-adab-bfb1dceaa1f6)
 
 ![Preview](https://github.com/user-attachments/assets/3448e138-4236-495e-a6aa-fca5fa42243d)
 
----
+
 
 > ⚠️ **Unofficial Archive Notice**  
 > This is an **unofficial repository** and **not created by the original author**.  
 > I am **not selling or distributing** this cursor pack.  
 > This is only a **public archive of the files** for preservation and personal use.
 
----
+
 
 # Windows 11 Inspired Material Design Cursors
 
