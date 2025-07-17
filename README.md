@@ -40,12 +40,6 @@ This cursor pack is more suitable for Windows 11, but it works perfectly on othe
 
 ---
 
-## ❤️ Creator's Note
-
-Some users requested a tail version of my Windows 11 Cursor Concept. After many design attempts, I finally found a balanced style that I personally enjoy and hope you will too.
-
----
-
 ## 🔗 More from the Creator
 
 Find more cursor designs, alternate versions with different loading colors and sizes, and wallpapers at:
